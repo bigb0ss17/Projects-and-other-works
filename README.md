@@ -25,7 +25,7 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 
 GGC TAPS (Technology Ambassadors Program) Repositories
 
-<img width="412" height="204" alt="image" src="https://github.com/user-attachments/assets/35d8476d-dadb-4aa2-9614-8ee0dc27c703" />
+<img width="206" height="102" alt="image" src="https://github.com/user-attachments/assets/35d8476d-dadb-4aa2-9614-8ee0dc27c703" />
 
 
 🎮 [Makey's Race Repo](https://github.com/TAP-GGC/makeysrace) <br>
