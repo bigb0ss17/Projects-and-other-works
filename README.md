@@ -29,4 +29,5 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 
 
 
+
 ## Proyecto
