@@ -33,6 +33,13 @@ GGC TAPS (Technology Ambassadors Program) Repositories
 - Improved and cleaned up the README for better clarity and structure
 - Created and edited/added demo videos to showcase functionality and usage
 
+🎮 [Oceans Rescue](https://github.com/TAP-GGC/ocean-rescue)
+- Collaborated with another student on step-by-step and cleaning up the repository
+
+🎮[Ball is Life](https://github.com/TAP-GGC/ball-is-life) <br>
+🎥[Ball is Life Demo Video](https://drive.google.com/drive/folders/1fB532kA6OUJAoatdYdFs1EHcPK0y_k_E?usp=sharing)
+- Created demo video for this repository.
+
 
 
 
