@@ -13,7 +13,7 @@ I have experience managing GitHub repositories for my professor, creating and ed
 
 Outside of academics, I enjoy building and painting model kits (Gundam and Warhammer), playing video games, spending time with friends through board games, and hiking.
 
-##Featured Projects / Experience
+## Featured Projects / Experience
 
 
 
