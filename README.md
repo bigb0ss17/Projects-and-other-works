@@ -67,20 +67,8 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 - Writing Bash scripts to automate system tasks and virtual machine setup  
 - Working with VirtualBox to create and manage virtual environments  
 - Using Linux command-line tools for file management, processes, and system operations  
-- Learning system configuration, permissions, and basic networking  
-
-### 🔧 Featured Work
-
-#### 🖥️ Virtual Machine Automation Script
-- 🔗 [View Script](link-to-your-script-or-repo)
-- Developed a Bash script to automate VM creation and configuration  
-- Utilized configuration files to manage VM settings dynamically  
-- Implemented error handling using exit codes and conditional logic  
-
-### 📂 Additional Practice
-
-- Practicing Linux commands and scripting through coursework and labs  
-- Exploring system administration concepts such as user management and permissions
+- Learning system configuration, permissions, and basic networking
+[Linux Scripts Repo](https://github.com/bigb0ss17/linux-scripts)
 
 ---
 
