@@ -4,8 +4,6 @@
 2. [Featured Projects and Experience](#featured-projects-and-experience)
 3. [Linux and System Administration](#linux-and-system-administration)
 4. [AWS and Cloud Computing](#aws-and-cloud-computing)
-5. [Technical Projects and Hands-On Experience](#technical-projects-and-hands-on-experience)
-
 
 ## About Me :robot:
 Hey there, I'm Vincent Pham! I'm a student at Georgia Gwinnett College pursuing a Bachelor's degree in Systems and Cybersecurity.
