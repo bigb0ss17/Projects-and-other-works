@@ -2,7 +2,9 @@
 ## Table of contents :bookmark_tabs:
 1. [About Me](#about-me)
 2. [Featured Projects and Experience](#featured-projects-and-experience)
-3. [AWS and Cloud Computing](#aws-and-cloud-computing)
+3. [Linux and System Administration](#linux-and-system-administration)
+4. [AWS and Cloud Computing](#aws-and-cloud-computing)
+5. [Technical Projects and Hands-On Experience](#technical-projects-and-hands-on-experience)
 
 
 ## About Me :robot:
@@ -60,6 +62,28 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 
 ---
 
+## 🐧 Linux and System Administration
+
+- Writing Bash scripts to automate system tasks and virtual machine setup  
+- Working with VirtualBox to create and manage virtual environments  
+- Using Linux command-line tools for file management, processes, and system operations  
+- Learning system configuration, permissions, and basic networking  
+
+### 🔧 Featured Work
+
+#### 🖥️ Virtual Machine Automation Script
+- 🔗 [View Script](link-to-your-script-or-repo)
+- Developed a Bash script to automate VM creation and configuration  
+- Utilized configuration files to manage VM settings dynamically  
+- Implemented error handling using exit codes and conditional logic  
+
+### 📂 Additional Practice
+
+- Practicing Linux commands and scripting through coursework and labs  
+- Exploring system administration concepts such as user management and permissions
+
+---
+
 ## ☁️ AWS and Cloud Computing
 
 - Currently studying for the AWS Certified Cloud Practitioner certification  
@@ -75,4 +99,12 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 
 ### 🔧 Hands-On Learning
 - Exploring AWS services through labs and coursework  
-- Practicing cloud setup and basic configurations  
+- Practicing cloud setup and basic configurations
+
+---
+
+## 🛠️ Technical Projects and Hands-On Experience
+
+- Built and configured custom desktop systems, including hardware installation, BIOS configuration, and operating system setup  
+- Diagnosed and resolved system boot failures and hardware compatibility issues  
+- Installed and configured both Windows and Linux environments for personal use and testing 
