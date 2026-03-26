@@ -40,6 +40,10 @@ GGC TAPS (Technology Ambassadors Program) Repositories
 🎥[Ball is Life Demo Video](https://drive.google.com/drive/folders/1fB532kA6OUJAoatdYdFs1EHcPK0y_k_E?usp=sharing)
 - Created demo video for this repository.
 
+🎮[Plastic Masons](https://github.com/TAP-GGC/PlasticMasons) <br>
+🎥[TinkerCad Demo Video](https://drive.google.com/drive/folders/1Lt48cjgrSvNdGh7kuLzEQY6mznahbZ9m?usp=sharing)
+- Cleaned up README and created a demo video. 
+
 
 
 
