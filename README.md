@@ -14,7 +14,7 @@ I have experience managing GitHub repositories for my professor, creating and ed
 
 Outside of academics, I enjoy building and painting model kits (Gundam and Warhammer), playing video games, spending time with friends through board games, and hiking.
 
-## Featured Projects / Experience
+## Featured Projects and Experience
 
 ### 🧑‍💻 GitHub Repository Management & Academic Collaboration
 
@@ -60,7 +60,7 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 
 ---
 
-## ☁️ AWS & Cloud Computing
+## ☁️ AWS and Cloud Computing
 
 - Currently studying for the AWS Certified Cloud Practitioner certification  
 - Gaining understanding of core AWS services and cloud concepts  
