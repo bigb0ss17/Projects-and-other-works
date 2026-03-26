@@ -2,6 +2,7 @@
 ## Table of contents :bookmark_tabs:
 1. [About Me](#about-me)
 2. [Featured Projects / Experience](#featured-projects)
+3. [AWS & Cloud Computing](#aws-cloudcomputing)
 
 
 ## About Me :robot:
@@ -55,4 +56,23 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 - 🔗 [View Repository](https://github.com/TAP-GGC/PlasticMasons)  
 - 🎥 [Watch Demo](https://drive.google.com/drive/folders/1Lt48cjgrSvNdGh7kuLzEQY6mznahbZ9m?usp=sharing)  
 - Cleaned and improved README documentation  
-- Created a demo video for project explanation  
+- Created a demo video for project explanation
+
+---
+
+## ☁️ AWS & Cloud Computing
+
+- Currently studying for the AWS Certified Cloud Practitioner certification  
+- Gaining understanding of core AWS services and cloud concepts  
+- Learning how cloud infrastructure is designed and managed  
+
+### 🧠 Key Concepts & Services
+- Amazon EC2 (virtual servers)
+- Amazon S3 (cloud storage)
+- AWS Lambda (serverless computing)
+- IAM (Identity and Access Management)
+- VPC (Virtual Private Cloud)
+
+### 🔧 Hands-On Learning
+- Exploring AWS services through labs and coursework  
+- Practicing cloud setup and basic configurations  
