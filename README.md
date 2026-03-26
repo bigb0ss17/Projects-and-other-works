@@ -85,11 +85,6 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 - AWS Lambda (serverless computing)
 - IAM (Identity and Access Management)
 - VPC (Virtual Private Cloud)
-
-### 🔧 Hands-On Learning
-- Exploring AWS services through labs and coursework  
-- Practicing cloud setup and basic configurations
-
 ---
 
 ## 🛠️ Technical Projects and Hands-On Experience
