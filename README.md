@@ -1,8 +1,8 @@
 # Projects-and-other-works
 ## Table of contents :bookmark_tabs:
 1. [About Me](#about-me)
-2. [Featured Projects / Experience](#featured-projects)
-3. [AWS & Cloud Computing](#aws-cloudcomputing)
+2. [Featured Projects and Experience](#featured-projects-and-experience)
+3. [AWS and Cloud Computing](#aws-and-cloud-computing)
 
 
 ## About Me :robot:
