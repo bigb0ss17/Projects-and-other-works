@@ -15,47 +15,42 @@ Outside of academics, I enjoy building and painting model kits (Gundam and Warha
 
 ## Featured Projects / Experience
 
-### GitHub Repository Management and Academic Collaboration 
+### 🧑‍💻 GitHub Repository Management & Academic Collaboration
 
-- Managed and organized multiple GitHub repositories for academic use
-- Improved and standardized README documentation
-- Created and edited demo videos to explain project functionality
-- Developed instructional materials including PowerPoints and activities
-- Collaborated with a professor on academic research projects
+- Managed and organized multiple GitHub repositories for academic use  
+- Improved and standardized README documentation  
+- Created and edited demo videos to explain project functionality  
+- Developed instructional materials including PowerPoints and activities  
+- Collaborated with a professor on academic research projects  
 
-GGC TAPS (Technology Ambassadors Program) Repositories
+---
 
-<img width="206" height="102" alt="image" src="https://github.com/user-attachments/assets/35d8476d-dadb-4aa2-9614-8ee0dc27c703" />
+### 🧪 GGC TAPS (Technology Ambassadors Program)
 
+#### 🎮 Makey's Race
+- 🔗 [View Repository](https://github.com/TAP-GGC/makeysrace)  
+- 🎥 [Watch Demo](https://drive.google.com/drive/folders/1PLiuIMKC8QDsyC22C5ql7_Bd4CRjSmv_?usp=sharing)  
+- Improved README for better clarity and structure  
+- Created and added demo videos to showcase functionality  
 
-🎮 [Makey's Race Repo](https://github.com/TAP-GGC/makeysrace) <br>
-🎥 [Makey's Race Demo Videos](https://drive.google.com/drive/folders/1PLiuIMKC8QDsyC22C5ql7_Bd4CRjSmv_?usp=sharing)
-- Improved and cleaned up the README for better clarity and structure
-- Created and edited/added demo videos to showcase functionality and usage
+---
 
-🎮 [Oceans Rescue](https://github.com/TAP-GGC/ocean-rescue)
-- Collaborated with another student on step-by-step and cleaning up the repository
+#### 🌊 Oceans Rescue
+- 🔗 [View Repository](https://github.com/TAP-GGC/ocean-rescue)  
+- Collaborated with another student to improve and clean up the repository  
+- Helped organize step-by-step project structure  
 
-🎮[Ball is Life](https://github.com/TAP-GGC/ball-is-life) <br>
-🎥[Ball is Life Demo Video](https://drive.google.com/drive/folders/1fB532kA6OUJAoatdYdFs1EHcPK0y_k_E?usp=sharing)
-- Created demo video for this repository.
+---
 
-🎮[Plastic Masons](https://github.com/TAP-GGC/PlasticMasons) <br>
-🎥[TinkerCad Demo Video](https://drive.google.com/drive/folders/1Lt48cjgrSvNdGh7kuLzEQY6mznahbZ9m?usp=sharing)
-- Cleaned up README and created a demo video. 
+#### 🏀 Ball is Life
+- 🔗 [View Repository](https://github.com/TAP-GGC/ball-is-life)  
+- 🎥 [Watch Demo](https://drive.google.com/drive/folders/1fB532kA6OUJAoatdYdFs1EHcPK0y_k_E?usp=sharing)  
+- Created a demo video explaining project functionality  
 
+---
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Proyecto
+#### 🧱 Plastic Masons
+- 🔗 [View Repository](https://github.com/TAP-GGC/PlasticMasons)  
+- 🎥 [Watch Demo](https://drive.google.com/drive/folders/1Lt48cjgrSvNdGh7kuLzEQY6mznahbZ9m?usp=sharing)  
+- Cleaned and improved README documentation  
+- Created a demo video for project explanation  
